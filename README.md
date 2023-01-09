@@ -17,13 +17,13 @@ driver.get('https://support.hp.com/pt-pt/check-warranty#multiple')
 
 2. Run the script with IDE of your choice or run on a terminal.
 
-<h2 style="color:green; font-weight:bold">Functionalities</h2>
+## **<span style="color:green">Functionalities</span>**
 
 * Checks the warranty status of all serial numbers in the txt and saves them in an excel file by row.
 
 * Does not overwrite the xlsx data if the script is stopped and started.
 
-<h2 style="color:red; font-weight:bold">Limitations</h2>
+## **<span style="color:red; font-weight:bold">Limitations</span>**
 
 * The script will only run a block of 20 serial numbers per loop, for example if your txt has 30 serial numbers, the last 10 will not be checked.
   
