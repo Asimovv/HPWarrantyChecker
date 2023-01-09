@@ -35,4 +35,5 @@ driver.get('https://support.hp.com/pt-pt/check-warranty#multiple')
 - [ ] Add a tracker in script to knows where was the last serial number checked and start in the last one.
 - [ ] Remove the limitation of 20 serial numbers checked per loop.
 - [ ] Change the website region more easily without changing the code manually.
-- [ ] Have error checkers in the script so it doesn't fail so easily
+- [ ] Have error checkers in the script so it doesn't fail so easily.
+- [ ] Improve timers in script.
